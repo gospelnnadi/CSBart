@@ -1,0 +1,7 @@
+\documentclass{article}
+\usepackage{pdfpages}
+%\VignetteIndexEntry{CSBartUsage}
+
+\begin{document}
+\includepdf[pages=-, fitpaper=true]{CSBart.pdf}
+\end{document}
